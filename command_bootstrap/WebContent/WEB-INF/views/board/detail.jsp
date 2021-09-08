@@ -8,7 +8,6 @@
   <!-- Content Wrapper. Contains page content -->
   <div  style="max-width:800px;min-width:420px;margin:0 auto;min-height:812px;">
    
-   
 	<section class="content-header">
 	  	<div class="container-fluid">
 	  		<div class="row md-2">

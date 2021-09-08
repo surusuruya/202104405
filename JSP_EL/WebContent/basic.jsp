@@ -4,7 +4,7 @@
 <%@ page trimDirectiveWhitespaces="true" %>	    
 
 <%
-
+ 
 	MemberVO member = new MemberVO("mimi","mimi");
 
 	pageContext.setAttribute("member", member);
