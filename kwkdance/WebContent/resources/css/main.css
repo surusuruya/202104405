@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumbrushscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+
+#main-img {
+/* 	background-color : ivory; */
+}
+
+#main-img-side {
+	height : 100%;
+	background-color : #212529;
+}
+
+#main-img-side-div {
+	padding : 0;
+}
+
+#main-img-div {
+	padding : 0;
+}
+
+#kwk-tit {
+	font-family: 'Nanum Brush Script', serif;
+	font-size: 30px;
+}
+#header-tit {
+	font-family: 'Nanum Brush Script', serif;
+}
+#header-tit-2 {
+	font-size : 23px;
+}
+#community {
+	--bs-light-rgb: 220, 220, 220;
+	
+}
+
+img {
+  width : 100%;
+  height : 100%;
+  object-fit: cover;
+}
